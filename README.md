@@ -1,4 +1,4 @@
-# Github Introduction
+# Github Introduction - "How to Use Git"
 >This repo contains sample files and an introduction on how to use Github for beginners.
 
 ## Table of contents
